@@ -1,0 +1,583 @@
+10113	US National Agricultural Library (=) USNAL	ARK
+10261	Jüdisches Museum Berlin (=) Jewish Museum Berlin (=) JMBERLIN	ARK
+10262	Médiathèque François-Mitterrand Poitiers (=) Poitiers Media Library (=) MFMP	ARK
+10603	Instituto de Etnomusicologia - Centro de Estudos em Música e Dança, Faculdade de Motricidade Humana (=) Institue of Ethnomusicology - Music and Dance Study Center, Faculty of Human Motricity (=) INETMDFMH	ARK
+10604	Editorial Universitaria Villa María (=) EDUVIM	ARK
+10945	AsWeGrow (=) ASWEGROW	ARK
+10946	Musée des Beaux-Arts de Rennes (=) MBAR	ARK
+10947	TestWe (=) TESTWE	ARK
+10987	University of Prince Edward Island (=) UPEI	ARK
+11287	Bibliothèque de l'observatoire de Paris (=) OBSPM	ARK
+11629	Universidad Nacional de Costa Rica (=) UNCR	ARK
+11630	Infotel SA (=) INFOTEL	ARK
+11971	Archives départementales de l'Aveyron (=) ADAVEYRON	ARK
+11972	Archives départementales du Tarn (=) AD81	ARK
+11973	Bibliothèque publique et universitaire de Neuchâtel (=) BPUN	ARK
+12025	US National Library of Medicine (=) USNLM	ARK
+12026	Library of Congress (=) USLOC	ARK
+12148	Bibliothèque nationale de France (=) National Library of France (=) BNF	ARK
+12313	Hachette Livre (=) HACHETTE	ARK
+12345	NAAN Reserved for use in Examples (=) EXAMPLE	ARK
+12655	ACCOLAD Franche-Comté (=) ACCOLAD	ARK
+12656	PRO-Economics (=) PROECO	ARK
+12997	Archives départementales du Territoire de Belfort (=) ADBELFORT	ARK
+12998	Société archéologique de Namur (=) SAN	ARK
+12999	Archives Municipales de Landerneau (=) AML	ARK
+13030	California Digital Library (=) CDLIB	ARK
+13038	World Intellectual Property Organization (=) WIPO	ARK
+13339	Archives départementales de la Sarthe (=) AD72	ARK
+13681	Centre de Musique Baroque de Versailles (=) CMBV	ARK
+13682	Archives de Nîmes (=) ANIMES	ARK
+13960	Internet Archive (=) IA	ARK
+14023	Revista de Arte, Ciência e Comunicação (=) ARTCIEN	ARK
+14024	Ville de Liège - Département de la Culture, des Musées et du Tourisme (=) VLG	ARK
+14025	Treenaut (=) TREENAUT	ARK
+14365	Colectica - Statistical Data Management (=) COLECTICA	ARK
+14366	Archives Diplomatiques du Ministère Des Affaires Etrangères (=) MAE	ARK
+14707	Bibliothèque de Documentation internationale contemporaine (=) Library of Contemporary International Documentation (=) BDIC	ARK
+15049	Archives départementales du Morbihan (=) AD56	ARK
+15050	University of Arizona Libraries (=) UAL	ARK
+15051	Musée Archéologique de l'Oise (=) MAO	ARK
+15230	Rutgers University (=) RUTGERS	ARK
+15391	Archives municipales de Saint-Denis (=) AMSTDENIS	ARK
+15392	CFDT - Service des archives (=) Archival Service of the French Democratic Confederation of Labor (CFDT) (=) CFDT	ARK
+15733	Bibliothèque Interuniversitaire de la Sorbonne (=) Sorbonne Library (=) BIS	ARK
+16075	Archives départementales du Cantal (=) ADC	ARK
+16076	Sanglap: Journal of Literary and Cultural Inquiry (=) SANGLAP	ARK
+16077	Institut du Monde Arabe (=) Arab World Institute (=) IMA	ARK
+16417	University of Kentucky Libraries (=) UKY	ARK
+16418	La Fabrique de patrimoines en Normandie (=) LFPN	ARK
+16759	Sprint Investify (=) INVESTIFY	ARK
+17101	Centre for Ecology & Hydrology, UK (=) CEH	ARK
+17102	Canadian Writing Research Collaboratory (=) CWRC	ARK
+17103	Université Côte d'Azur (=) UCA	ARK
+17443	Fondation La main à la pâte (=) LAMAP	ARK
+17444	TECHNES (=) TCNS	ARK
+17786	Bibliothèque de Genève (=) BGE	ARK
+18127	Archives départementales du Val-d'Oise (=) ADVO	ARK
+18128	Bibliothèque multimédia intercommunale d'Epinal (=) BMIE	ARK
+18469	Paris Sciences et Lettres (=) PSL	ARK
+18470	Office National d'Information Sur les Enseignements et les Professions - ONISEP (=) ONISEP	ARK
+18811	Archives municipales de LYON (=) AMLYON	ARK
+18812	Archives départementales de la Charente-Maritime (=) ADCM	ARK
+19153	Centre national de documentation pédagogique (=) French National Pedogical Documentation Center (=) CNDP	ARK,
+19154	Durham Cathedral Library (=) DURCL	ARK
+19495	Ohio Supercomputer Center (=) OSC	ARK
+19496	Edumalin (=) EDUMALIN	ARK
+19837	Simon Fraser University (=) SFU	ARK
+19838	Cahiers de la Haute-Loire (=) CHL	ARK
+20179	Bibliothèque numérique de Roubaix (=) BNROUBAIX	ARK
+20521	Cité des Sciences et de l'industrie (=) CSI	ARK
+20522	Archives départementales du Loiret (=) AD45	ARK
+20523	Shaukat Khanum Memorial Cancer Hospital and Research Centre (=) JCAS	ARK
+20775	University of California San Diego (=) UCSD	ARK
+20863	ARTE France (=) ARTEFRANCE	ARK
+21198	University of California Los Angeles (=) UCLA	ARK
+21205	Archives municipales de Porto Vecchio (=) AMPV	ARK
+21206	17beta (=) 17BETA	ARK
+21547	Biocode Commons (=) BIOCODE	ARK
+21548	Ecole Nationale Supérieure d'Arts et Métiers (=) ENSAM	ARK
+21549	Phoebe A. Hearst Museum of Anthropology (=) PAHMA	ARK
+21889	Editis Pôle Éducation & Référence (=) EDITISPER	ARK
+22231	Archives départementales de l'Ain (=) ADAIN	ARK
+22232	Médiathèque de l'Architecture et du Patrimoine (=) MAP	ARK
+22573	ITHAKA (=) ITHAKA	ARK
+22574	Archives Départementales de la Vendée (=) ADVENDEE	ARK
+22575	Archives départementales de la Creuse (=) AD23	ARK
+22915	The Silent Film Sound & Music Archive (=) SFSMA	ARK
+23257	Appalachian State University (=) APPSTATE	ARK
+23258	Agence France Presse (=) AFP	ARK
+23599	Archives départementales des Hautes-Alpes (=) ADHALPES	ARK
+23600	Office français de protection des réfugiés et apatrides (=) OFPRA	ARK
+23601	Repositorio Institucional UNNOBA (=) RIUNNOBA	ARK
+23941	University of Southern California (=) USC	ARK
+23942	EarthCube (=) ECUBE	ARK
+24283	University of Florida Interdisciplinary Center for Biotechnology Research (=) UFICBR	ARK
+24625	Archives municipales d'Orléans (=) AMORLEAN	ARK
+24626	Archives départementales de la Drôme (=) AD26	ARK
+24627	Glose (=) GLOSE	ARK
+24967	Archives départementales de la Lozère (=) ADLOZERE	ARK
+24968	Bibliothèque de la Ville de La Chaux-de-Fonds (=) BVCF	ARK
+25031	University of Kansas (=) UKANSAS	ARK
+25309	Woodbury University School of Architecture (=) WUSA	ARK
+25593	Emory University (=) EMORY	ARK
+25651	Archives départementales de la Gironde (=) ADGIRONDE	ARK
+25652	École nationale supérieure des mines de Paris (=) ENSMINES	ARK
+25653	Anaphore (=) ANAPHORE	ARK
+25993	Archives départementales du Doubs (=) ADDOUBS	ARK
+25994	Explorateur de Métiers (=) EDMTV	ARK
+26335	Archives départementales de l'Eure (=) AD27	ARK
+26677	Library and Archives Canada (=) Bibliothèque et Archives Canada (=) LAC	ARK
+26678	Fédération et Ressources sur l'Antiquité (=) FRANTIQ	ARK
+26679	Bureau de Recherches Géologiques et Minières (=) French geological survey (=) BRGM	ARK
+27019	Educlever (=) ECV	ARK
+27020	BILKETA (=) BILKETA	ARK
+27361	James Madison University (=) JMU	ARK
+27362	Cold Spring Harbor Laboratory (=) CSHL	ARK
+27703	US Environmental Protection Agency (=) USEPA	ARK
+27704	Lelivrescolaire.fr Editions (=) LLS	ARK
+27927	Portico Digital Preservation Service (=) PORTICO	ARK
+28045	Communauté d'agglomération de Mantes-en-Yvelines (=) CAMY	ARK
+28046	DECALOG (=) DECALOG	ARK
+28387	Archives départementales de la Vienne (=) ADV	ARK
+28388	Archives municipales de Saint-Nazaire (=) AMSN	ARK
+28722	University of California Berkeley (=) UCBERKELEY	ARK
+28729	Archives départementales du Rhône (=) ADR	ARK
+28730	Programa de Pós-Graduação em Design - Universidade Federal do Rio Grande do Sul (=) Graduate Program in Design of Federal University of Rio Grande do Sul (=) PPGD	ARK
+29071	Universitatea de Vest din Timişoara (=) West University of Timisoara (=) UVTRO	ARK
+29072	Bodleian Libraries, University of Oxford (=) BODLEIAN	ARK
+29114	University of California San Francisco (=) UCSF	ARK
+29413	University of Pennsylvania (=) UPENN	ARK
+29414	Institut Mémoires de l'édition contemporaine (=) IMEC	ARK
+29755	Bibliothèque municipale de Valenciennes (=) Valenciennes Library (=) BMV	ARK
+30097	Archives municipales d'Armentières (=) AMARMENT	ARK
+30098	Bibliothèque municipale de Périgueux (=) BMPGX	ARK
+30099	Commissariat à l'énergie atomique et aux énergies alternatives (=) CEA	ARK
+30439	Archives départementales de l'Indre (=) ADINDRE	ARK
+30782	Archives de la Ville de Genève (=) AVG	ARK
+31123	Fondation Maison des Sciences de l'Homme (=) FMSH	ARK
+31124	Bibliothèques de Nancy (=) BIBSN	ARK
+31125	ESCP Europe Bibliothèque du campus de Paris (=) ESCP	ARK
+31465	Médiathèque du Grand Troyes (=) MGT	ARK
+31807	Open Commons Consortium (=) OCC	ARK
+31808	Archives départementales du Gard (=) AD30	ARK
+32149	Inoc Aquitania (=) INOC	ARK
+32150	Durham University Library (=) DURUL	ARK
+32151	English Attack! (=) ENGTACK	ARK
+32491	Archives de la ville de Romans (=) AVROMANS	ARK
+32833	Massachusetts Institute of Technology (=) MIT	ARK
+32834	Quantiply Corporation (=) QPLY	ARK
+33175	Archives départementales de Meurthe et Moselle (=) ADMM	ARK
+33176	Archives de l'Université catholique de Louvain (=) AUCL	ARK
+33517	Grains Research and Development Corporation (=) GRDC	ARK
+33518	Département du Nord (=) DNORD	ARK
+33859	ARTE France Développement (=) EDUCARTE	ARK
+34201	Bibliothèque publique d'information (=) Public Information Library (=) BPI	ARK
+34202	Center for Sustainability Research and Consultancy (=) CSRC	ARK
+34203	Calamus - SAEMED (=) CALAMUS	ARK
+34231	Purdue University (=) PURDUE	ARK
+34543	Boston Public Library (=) BPL	ARK
+34544	Saint-Nazaire Agglomération Tourisme (=) SNAT	ARK
+34885	Encyclopædia Universalis (=) ENCYCLOU	ARK
+35227	Archives départementales des Landes (=) Landes Departmental Archives (=) ADLANDES	ARK
+35228	Université de Haute-Alsace (=) UHA	ARK
+35229	SCM Journals (=) SCMJ	ARK
+35569	Conseil Général de la Martinique (=) General Counsel of Martinique (=) CG972	ARK
+35570	Château de Versailles (=) EPV	ARK
+35911	IEEE Publishing Technology (=) IEEEPUB	ARK
+36253	George Eastman House - International Museum of Photography and Film (=) GEH	ARK
+36254	Muséum d'Histoire Naturelle de Toulouse (=) MHNT	ARK
+36255	Réunion des musées nationaux - Grand Palais (=) RMNGP	ARK
+36595	Archives Départementales du Jura (=) AD39	ARK
+36596	Bibliothèque et Médiathèques de Grasse (=) BMGRASSE	ARK
+36937	Archives départementales des Yvelines (=) ADYVEL	ARK
+36938	JEULIN (=) JLN	ARK
+37279	Archives départementales de l'Hérault (=) AD3	ARK
+37280	Tropy (=) TROPY	ARK
+37621	Archives départementales d'Indre-et-Loire (=) AD37	ARK
+37622	Sonoma County Library (=) SCL	ARK
+37963	Archives départementales de la Mayenne (=) ADMAYENNE	ARK
+37964	Office des archives de l'Etat de Neuchâtel (=) OAEN	ARK
+38305	University of California Santa Cruz (=) UCSC	ARK
+38306	Archives nationales de France (=) French National Archives (=) ANFRANCE	ARK
+38647	Bibliography on the Architecture of Ancient Theater (=) BAAT	ARK
+38648	Musée départemental de la Céramique à Lezoux (=) MDCL	ARK
+38989	The George Washington University (=) GWU	ARK
+38990	Archives municipales de Chalon-sur-Saône (=) AMCHALON	ARK
+39331	National Széchényi Library (=) National Library of Hungary (=) OSZK	ARK
+39332	Archives de la Ville et de l'Eurométropole de Strasbourg (=) AVES	ARK
+39673	Archives départementales de l'Ardèche (=) AD07	ARK
+39674	Établissement de Communication et de Production Audiovisuelle de la Défense (=) ECPAD	ARK
+39675	Ville de Bourg-en-Bresse (=) VBB	ARK
+40015	edulib (=) EDULIB	ARK
+40357	Archives départementales de Tarn-et-Garonne (=) AD82	ARK
+40358	Campus Condorcet - GED (=) CCGED	ARK
+40699	Ministère de la Défense, Mémoire des hommes (=) MDMH	ARK
+40700	Archives départementales des Bouches du Rhône (=) AD13	ARK
+40701	Musée Médard (=) MEDARD	ARK
+41041	Archives de la Métropole Européenne de Lille (=) MEL	ARK
+41383	Archives départementales du Cher (=) ADCHER	ARK
+41384	Editions BPI - Best Practice Inside (=) BPIEDIT	ARK
+41725	Research Center for Islamic History, Art and Culture (=) IRCICA	ARK
+41726	Eclair Preservation S.A.S. (=) ECLAIR	ARK
+41727	MatchWare (=) MATCHWARE	ARK
+42067	Archives de la Loire Atlantique (=) ADLATL	ARK
+42409	The Pennsylvania State University (=) PSU	ARK
+42410	Varepsilon Ltd (=) VL	ARK
+42751	Archives départementales de l'Aube (=) ADAUBE	ARK
+42752	Centre National d'Enseignement à Distance (=) CNED	ARK
+43093	Equipex Biblissima (=) EQPXBIB	ARK
+43094	Institut d'Histoire des Représentations et des Idées dans les Modernités - UMR 5317 (=) IHRIM	ARK
+43435	Cité de l'architecture et du patrimoine (=) City of Architecture and Heritage (=) CAP	ARK
+43777	Otolaryngology Online Journal (=) JORL	ARK
+43778	Archives départementales de la Dordogne (=) ADDORD	ARK
+43779	Hyper Hyper Space (=) HHS	ARK
+44119	Service des archives régionales de Wallonie (=) Wallonia Region Archives Service (=) SARW	ARK
+44120	Centre for Astronomical Heritage (=) CFAH	ARK
+44461	Remix the Manuscript (=) RMXMANU	EZID
+44803	Archives départementales de l'Oise (=) ADO	ARK
+44804	Université de Caen Normandie (=) UCN	ARK
+44805	Archives de la Haute-Garonne (=) AD31	ARK
+45145	New York Public Library (=) NYPL	ARK
+45146	Le Génie Editeur (=) GDGFP	ARK
+45487	Российский Лингвистический Бюллетень (=) Russian Linguistic Bulletin (=) RULB	ARK
+45829	Bibliothèque Cujas (=) Cujas inter-university library (Paris 1 Panthéon Sorbonne and Paris 2 Assas) (=) BIUCUJAS	ARK
+45830	Bibliothèque Nationale du Royaume du Maroc (=) National Library of the Kingdom of Morocco (=) BNRM	ARK
+45831	Ruhr Universität Bochum (=) RUB	ARK
+46171	Universidad Nacional Autonoma de México campus Morelia (=) UNAMM	ARK
+46513	Sciences Po (=) Paris Institute of Political Studies (=) SCPO	ARK
+46514	DRAC Grand Est (=) Regional Directorate of Cultural Affairs of the Grand Est (=) DGE	ARK
+46855	Languedoc-Roussillon Council (=) LAREGION	ARK
+46856	CNRS Images (=) CNRSIMAGES	ARK
+47197	Médiathèque de la Ville de Cannes (=) MED	ARK
+47198	BRIEF.ME SAS (=) BMS	ARK
+47539	Archives départementales de la Haute-Loire (=) ADHL	ARK
+47540	University of Colorado Boulder (=) UCBOULDER	ARK
+47881	Université Claude Bernard Lyon 1 (=) University of Lyon 1 (=) UCBL	ARK
+47882	Cabrilog SAS (=) CABRILOG	ARK
+48223	United Nations Educational, Scientific and Cultural Organization (=) UNESCO	ARK
+48224	PIX (=) PIX	ARK
+48565	Ville de Besançon (=) VB	ARK
+48566	Pearltrees (=) PEARLTREES	ARK
+48907	University of California Santa Barbara (=) UCSB	ARK
+48908	Archives municipales de Béziers (=) AMBEZIERS	ARK
+49249	Archives municipales de Saint Brieuc (=) AMSB	ARK
+49250	Cité de la musique - Philharmonie de Paris (=) CMPP	ARK
+49251	Universidad Católica de Salta (=) UCASAL	ARK
+49591	Effios (=) EFFIOS	ARK
+49933	Archives départementales de l'Ille-et-Vilaine (=) AD35	ARK
+49934	Arqueologia Iberoamericana (=) ARQUEIA	ARK
+50275	Archives départementales des Vosges (=) AD88	ARK
+50276	France Televisions (=) FTVE	ARK
+50277	Images et Savoirs (=) I&S	ARK
+50617	Société de l'Histoire du Protestantisme Français (=) SHPF	ARK
+50959	Digital Commonwealth (=) DIGCMNW	ARK
+50960	Archives municipales de Belfort (=) AMBELFORT	ARK
+51301	Fundación Centro de Estudios Andaluces (=) Andalusian Studies Centre Foundation (=) FCEA	ARK
+51302	Archives départementales de la Loire (=) ADLOIRE	ARK
+51303	Delta Expert (=) DELTAE	ARK
+51643	Institute for Research in Classical Philosophy and Science (=) IRCPS	ARK
+51985	University of Illinois at Urbana Champaign (=) UIUC	ARK
+51986	LBNL ETA Building Tech and Urban Systems (=) BSUDADMIN	EZID
+52327	Bibliothèque et Archives Nationales du Québec (=) National Library and Archives of Quebec (=) BANQ	ARK
+52328	Archives Départementales de la Haute-Vienne (=) ADHV	ARK
+52329	Archives départementales du Calvados (=) ADCALVADOS	ARK
+52669	Archives départementales de la Meuse (=) ADMEUSE	ARK
+52670	Fondation Le Corbusier (=) FLC	ARK
+53011	Philadelphia Museum of Art (=) PMA	ARK
+53353	Archives du Musée Picasso (=) AMPICASSO	ARK
+53354	Musée gallo-romain de Lyon (=) MGRL	ARK
+53355	Musée du Louvre (=) MDL	ARK
+53695	American Numismatic Society (=) ANS	ARK
+53696	Virginia Polytechnic Institute and State University Libraries (=) VT	ARK
+54037	Institut national de l'audiovisuel (=) INA	ARK
+54379	University of Alberta (=) UALBERTA	ARK
+54380	Bibliothèque Municipale d'Angers (=) BMA	ARK
+54381	Escuela de Ciencias de la Ingeniería y Tecnología, Universidad Autónoma de Baja California (=) School of Engineering Sciences and Technology, Autonomous University of Baja California (=) ECITEC	ARK
+54721	Institut national d'histoire de l'art (=) French National Institute for the History of Art (=) INHA	ARK
+54722	Naturalis Biodiversity Center (=) NATURALIS	ARK
+55063	Médiathèques du Grand Dole (=) Media Libraries of Greater Dole (=) MEDIAGD	ARK
+55405	Columbia College Chicago (=) COLUMCC	ARK
+55406	Archives municipales de Blois (=) AMBLOIS	ARK
+55407	Global Politics Review (=) GPR	ARK
+55747	Fédération Départementale des Musées d'Agriculture et du Patrimoine Rural en Loire-Atlantique (=) FDMA44	ARK
+56089	Cité Numérique de la Méditerranée (=) Digital City of the Mediterranean (=) CNM	ARK
+56090	University of Notre Dame Hesburgh Libraries (=) UNDHL	ARK
+56431	Archives départementales de l'Yonne (=) AD89	ARK
+56432	Institut national du sport, de l'expertise et de la performance (=) INSEP	ARK
+56773	Journal of Zoology Studies (=) JOZS	ARK
+57115	Archives départementales de la Manche (=) ADMANCHE	ARK
+57116	Institute of Control, Robotics and Information Engineering (Poznan University of Technology) (=) ICRIE-PUT-PTPN	ARK
+57457	Archives départementales du Loir-et-Cher (=) ADLC	ARK
+57458	Saint-Gobain (=) STGOBAIN	ARK
+57799	bioCADDIE (=) BIOCADDIE	EZID
+57800	CEDROM-SNI (=) CEDROM	ARK
+58141	Österreichische Nationalbibliothek (=) National Library of Austria (=) ONB	ARK
+58142	Université Paris-Est Marne-la-Vallée (=) UPEM	ARK
+58483	Archives départementales de la Somme (=) Somme Departmental Archives (=) ADSOMME	ARK
+58484	Archives Départementales des Alpes de Haute Provence (=) ADAHP	ARK
+58825	Archives départementales des Deux-Sèvres (=) ADDS	ARK
+58826	Humensis (=) HUM	ARK
+58827	Musée de l'Ecole de Nancy (=) MEN	ARK
+59167	Journal of Philosophical Criticism (=) JPC	ARK
+59509	PharmaTutor (=) PTUTOR	ARK
+59510	Etablissement publique des musées d'Orsay et de l'Orangerie (=) EPMOO	ARK
+59851	Fundación Biblioteca Virtual Miguel de Cervantes (=) FBVMC	ARK
+59852	Médiathèque Puzzle (=) PZZL	ARK
+59853	University of Virginia (=) UVA	ARK
+60193	Médiathèque de Bayonne (=) MBAYONNE	ARK
+60535	Archives départementales de Saône-et-Loire (=) ADSL	ARK
+60536	docuteam (=) DOCUTEAM	ARK
+60877	Archives départementales de la Nièvre (=) ADNIEVRE	ARK
+60878	eduMedia (=) EDUMEDIA	ARK
+60879	Archives Nationales du Monde du Travail (=) AANMT	ARK
+61001	University of Chicago (=) UCHICAGO	ARK
+61219	Mappemonde (=) MAPPEM	ARK
+61561	les archives nationales d'outre-mer (=) National Overseas Archives (=) ANOM	ARK
+61562	Bibliothèque Mazarine (=) BIBM	ARK
+61903	Family Search (=) FS	ARK
+61904	Archives départementales de la Charente (=) AD16	ARK
+61905	Institut International de la Marionnette (=) International Puppet Institute (=) IIM	ARK
+62245	Archives municipales de Rueil-Malmaison (=) AMRM	ARK
+62246	Maison des Sciences de l'Homme de Dijon (=) MSHDIJON	ARK
+62587	The Kyoto University Museum (=) KYOTOUM	ARK
+62624	New York University (=) NYU	ARK,
+62929	Institut National de Physique Nucléaire et de Physique des Particules du CNRS (=) IN2P3	ARK
+62930	University of Nevada, Las Vegas University Libraries (=) UNLV	EZID
+62931	Médiathèque intercommunale de Saint-Dié-des-Vosges (=) MISDV	ARK
+63271	Archives départementales de l'Aisne (=) AD02	ARK
+63272	MediaLibraryOnLine (=) MLOL	ARK
+63613	Euro France Médias (=) EFM	ARK
+63955	Institut de recherche et d'histoire des textes (=) CNRSIRHT	ARK
+63956	Archives de Monaco (=) MONACO	ARK
+63957	Archives de la Ville de Chelles (=) AVCHELLES	ARK
+64269	Digital Curation Centre (=) DCC	ARK
+64297	Archives départementales du Pas-de-Calais (=) ADPC	ARK
+64298	Institut national de recherches archéologiques préventives (Inrap) (=) National Institute of Preventive Archaeological Research (=) INRAP	ARK
+64639	Biblioteca Digitale Ligure (=) Ligurian Digital Library (=) BDL	ARK
+64981	Lo CIRDÒC - Mediatèca occitana (=) CIRDOC	ARK
+64982	Archives départementales des Hautes-Pyrénées (=) ADHP	ARK
+64983	AJLSM (=) AJLSM	ARK
+65323	University of Calgary (=) UCALGARY	ARK
+65324	Japan Association for Language Teaching, Critical Thinking Special Interest Group (=) JALTCTSIG	ARK
+65665	National Museum of Natural History, Smithsonian Institution (=) USNMNH	EZID
+65666	Biblioteca Estense Universitaria di Modena (=) BEU	ARK
+66007	Archives départementales d'Eure-et-Loir (=) AD28	ARK
+66008	Musée de l'Armée (=) MDARMEE	ARK
+66349	Bibliothèque municipale de Grenoble (=) BMG	ARK
+66350	Musée d'histoire des Sciences (=) MHN	ARK
+66691	Musée des Augustins (=) MDA	ARK
+66692	Service Interétablissement de la Documentation, Université Grenoble Alpes (=) SID-UGA	ARK
+67033	Archives départementales de la Haute-Savoie (=) ADHS	ARK
+67034	University of Michigan Medical School DLHS-DLKS (=) DLHSDLKS	EZID
+67375	Institut de l'information scientifique et technique (=) Institute for scientific and technical information (=) INIST	ARK
+67376	NEOTIS (=) NEOTIS	ARK
+67531	University of North Texas (=) UNT	ARK
+67717	Ministère de la culture et de la communication (=) French Ministry of Culture and Communication (=) MCC	ARK
+67718	SpeakShake (=) SPEAKSHAKE	ARK
+68059	Centre National d'Études Spatiales (=) French Space Agency (=) CNES	ARK
+68060	Andrews University (=) ANDREWSU	ARK
+68401	Archives municipales de Villeurbanne (=) AMVE	ARK
+68402	Unit Research - Research, Enterprises and Decision (=) URRED	ARK
+68743	Tunisian National Library (=) TNL	ARK
+69085	Assemblée Nationale (=) National Assembly of France (=) ANF	ARK
+69086	St Giles' Cathedral (=) STGC	ARK
+69427	Complex Systems Digital Campus (=) UNITWIN	ARK
+69428	Literati (=) LIT	ARK
+69429	Canadian Research Knowledge Network (=) CRKN	ARK
+69769	Archives du Musée du quai Branly Jacques Chirac (=) MQB	ARK
+70111	Hawaii State Archives (=) HSA	ARK
+70112	Musée national du Sport (=) MNS	ARK
+70453	Massage Therapy Association of British Columbia (=) MTABC	ARK
+70454	Association Sésamath (=) SESAMATH	ARK
+70455	Revista de Estudios Latinoamericanos sobre Reducción del Riesgo de Desastres (=) Journal of Latin American Studies on Disaster Risk Reduction (=) REDER	ARK
+70795	Bibliothèque nationale de Luxembourg (=) National Library of Luxembourg (=) BNL	ARK
+71137	Archives départementales de la Côte-d'Or (=) ADCO	ARK
+71138	Archives départementales du Val-de-Marne (=) AD94	ARK
+71479	Consejo Superior de Investigaciones Científicas (=) Spanish National Research Council (=) CSIC	ARK
+71480	Espace Mendès France (=) EMF	ARK
+71481	Archives municipales de Fontainebleau (=) AMF	ARK
+71821	Archives départementales de Maine-et-Loire (=) ADML	ARK
+71822	Sociedad Argentina de Estudios Lingüísticos (=) SAEL	ARK
+72163	Data and Service Center for the Humanities (=) DASCH	ARK
+72505	Université Lille (=) University of Lille (=) ULILLE	ARK
+72506	Archives départementales du Finistère (=) AD29	ARK
+72507	Collège de France (=) CDF	ARK
+72847	Archives départementales du Puy-de-Dôme (=) AD63	ARK
+72848	Journal of Rawalpindi Medical College (=) JRMC	ARK
+73189	Data Archiving and Networked Services (=) DANSKNAW	ARK
+73531	Archives départementales du Var (=) ADVAR	ARK
+73532	ITOP éducation (=) ITOP	ARK
+73533	Bibliothèque municipale de Nantes (=) BMN	ARK
+73873	Ville de Paris (=) VP	ARK
+73874	NASA JPL (=) JPL	ARK
+74215	Service Ressources patrimoniales et culturelles du département de l'Ain (=) PDLAIN	ARK
+74557	Rockefeller Archive Center (=) RAC	ARK
+74558	Archives municipales de Laval (=) AMLAVAL	ARK
+74559	Archives de Rennes (=) ARENNES	ARK
+74899	Bibliothèque municipale de Toulouse (=) Toulouse Municipal Library (=) BIBTOULOUSE	ARK
+74900	Archives municipales de Lille (=) AMLILLE	ARK
+75241	Archives municipales de Bordeaux (=) AMBDEAUX	ARK
+75242	Médiathèque de Rueil-Malmaison (=) MRM	ARK
+75583	Archives départementales des Ardennes (=) ADARDENN	ARK
+75584	Bibliothèque municipale de Lyon (=) Lyon public library (=) BMLYON	ARK
+75788	Montana State University (=) MSU	EZID
+75925	Mark and Mary Stevens Neuroimaging and Informatics Institute (=) INI	ARK
+75926	Biblioteca Digital de la Universidad Nacional de Cuyo (=) UNCUYO	ARK
+76267	Lafayette College Libraries (=) LCL	ARK
+76268	Revista Elektron (=) Elektron Magazine (=) ELEKTRON	ARK
+76609	Maison de l'Orient et la Méditerranée (=) MOM	ARK
+76610	Archives nationales de Luxembourg (=) ANLUX	ARK
+76951	Southern Philippines Medical Center (=) SPMC	ARK
+76952	Projet Voltaire (=) PVOLT	ARK
+77293	Archives départementales de la Savoie (=) ADS	ARK
+77294	Génération 5 (=) GEN5	ARK
+77635	Humboldt-Universität zu Berlin (=) Humboldt University Berlin (=) HUB	ARK
+77636	Archives Municipales Aix En Provence (=) AMAEP	ARK
+77913	Miami Project to Cure Paralysis (=) REGENBASE	EZID
+77914	Caltech Archives (=) TECHARC	EZID
+77916	Médiathèques d'Orléans (=) MORLEANS	ARK
+77977	Archives départementales de la Haute-Saône (=) AD70	ARK
+77978	Archives départementales du Lot (=) AD46	ARK
+78319	Google (=) GOOGLE	ARK
+78320	Bibliothèque Municipale à Vocation Régionale de Nice (=) BMVRNICE	ARK
+78661	College of American Pathologists (=) CAPATH	ARK
+78662	Environmental System Science Data Infrastructure for a Virtual Ecosystem (=) ESSDIVE	ARK
+79003	Archives de Saint-Etienne (=) AMSE	ARK
+79004	Institut National de l'Information Géographique et Forestière (=) The National Institute of Geographic and Forest Information (=) IGN	ARK
+79005	Institut et Musée Voltaire (=) IMV	ARK
+79345	Bibliothèques-Médiathèques de Metz (=) BMM	ARK
+79687	San Francisco Symphony (=) SFSYMPH	ARK
+79688	Educagri Editions (=) EDUCAGRI	ARK
+80030	Journal of Mechanical Engineering and Biomechanics (=) JMEB	ARK
+80352	UCLA Civil and Environmental Engineering (=) UCLACEE	EZID
+80353	UC Observatories (=) UCOLICK	EZID
+80354	Berkeley Linguistics Society (=) UCBBLS	EZID
+80357	Tchê Química (=) Tchê Chemistry (=) PTQ	ARK
+80358	LBNL Climate & Ecosystems Science Division (=) LBNLCESD	EZID
+80359	UCSD Center for Computational Mass Spectrometry (=) UCSDCCMS	EZID
+80371	Ushaw College Library (=) USHAWCL	ARK
+80444	Northwest Digital Archives (=) NWDA	ARK
+80713	Biblioteca Nacional de Portugal (=) National Library of Portugal (=) BNP	ARK
+81055	British Library (=) BL	ARK
+81220	College of William & Mary Libraries (=) WMLIB	EZID
+81221	Archives départementales des Pyrénées-Atlantiques (=) ADPA	ARK
+81222	UCLA Dept of Civil & Environmental Engineering - Geotechnical Engineering Research Group (=) UCLACEEGEO	EZID
+81224	UC San Diego Philosophy Dept. (=) UCSDGRUSH	EZID
+81228	UCSD Metabolomics Workbench (=) UCSDMW	EZID
+81229	UCSB ECE Dept Mostofi Lab (=) UCSBECE	EZID
+81235	UCI Library Digital Assets (=) UCILDA	EZID
+81238	UCSD Scripps Spray Plotting (=) UCSDIDG	EZID
+81239	Marine and Coastal Research Institute of Columbia (=) INVEMAR	EZID
+81416	UCI PECE project (=) PECE	EZID
+81418	UCB Geotechnical Engineering Research (=) UCBGT	EZID
+81422	UCSD Scripps Project IDA, Inst. for Geophysics and Planetary Physics (=) PROJECTIDA	EZID
+81423	Texas A&M University Libraries (=) TAMUL	EZID
+81424	Earth Research Institute (=) ERI	EZID
+81428	Dartmouth Virtual Basilica (=) VBASILICA	EZID
+81431	University of Pennsylvania Libraries (=) UPENNLIB	EZID
+81968	University of Wisconsin German Program (=) UWISGERMAN	EZID
+81972	UCSB English Department (=) AYLIU	EZID
+81973	University of California Natural Reserve System (=) UCNRS	EZID
+81974	Centro Interamericano de Investigaciones Psicológicas y Ciencias Afines (=) Inter-American Center for Psychological Research and Allied Sciences (=) CIIPYCA	ARK
+81976	Climate, Atmospheric Science and Physical Oceanography (=) CASPO	EZID
+81983	UCSF Archives & Special Collections (=)	EZID
+81984	University of Illinois at Chicago (=) UIC	EZID
+81985	Northwestern University (=) NUL	EZID
+81986	SDSC Center for Applied Internet Data and Analysis (=) CAIDA	EZID
+82083	Centre national de la danse (=) CND	ARK
+82424	Archives Nice Côte d'Azur (=) ANCA	ARK
+82765	Cadmos (=) CADMOS	ARK
+83011	Musée de Bretagne (=) MB	ARK
+83022	DataMares (=) DATAMARES	EZID
+83024	Dartmouth College Library (=) DARTLIB	EZID
+83025	National University of Ireland, Galway (=) NUIGAL	ARK
+83108	Toulon Provence Méditerranée (=) TPM	ARK
+83449	Facultés Universitaires Notre-Dame de la Paix (Namur) (=) University of Namur (=) FUNDP	ARK
+83791	Archives municipales de Saumur (=) AMSAUMUR	ARK
+84133	Archives départementales de l'Allier (=) ADA	ARK
+84135	Punctum Books (=) PUNCTUM	EZID
+84246	California Coastal Atlas (=) UCSDCCA	EZID
+84475	University of Houston (=) UHOUSTON	ARK
+84818	IndraStra Global (=) INDRASTRA	ARK
+85063	National Center for Ecological Analysis and Synthesis (=) NCEAS	EZID
+85065	National Center for Atmospheric Research (=) NCAR	EZID
+85066	United States Geological Survey (=) USGS	EZID
+85069	SDSC OpenTopography Facility (=) SDSCOTF	EZID
+85140	University of California Davis (=) UCDAVIS	EZID
+85141	UC Davis, Social Science Data Service (=) UCDSSDS	EZID
+85142	Utah State University (=) USU	EZID
+85147	iDASH Repository (=) IDASHREPOSITORY	EZID
+85335	Michigan State University Libraries (=) MSUL	EZID
+85779	Berkeley Law Library (=) UCBLAWLIB	EZID
+85781	UC Davis Online Strategies (=) UCD-ONS	EZID
+85782	Drug Design Data Resource (=) D3R	EZID
+85786	University of Wyoming Libraries (=) UWYO	EZID
+85788	UCSB Climate Hazards Group, Dept of Geography (=) SBGEOG	EZID
+86071	University of California Merced (=) UCM	ARK,
+86072	UCSD Signaling Gateway (=) UCSDSG	EZID
+86073	American University of Beirut, University Libraries (=) AUB-UL	EZID
+86074	Zapruder World (=) ZWJ	EZID
+86076	Fred Hutchinson Cancer Research Center (=) FHCRC	EZID
+86079	UCLA Department of Ecology and Evolutionary Biology (=) UCLAEEB	EZID
+86080	Collaborative Research Computational Neuroscience Program (=) CRCNSP	EZID
+86084	Blavatnik Archive Foundation (=) BAF	EZID
+86085	Partnership for Interdisciplinary Studies of Coastal Oceans (=) PISCO	EZID
+86086	University of California Riverside (=) UCRIVERSIDE	EZID
+86186	Centre Régional des Lettres (=) NORMANNIA	ARK
+86527	Maskott (=) MASKOTT	ARK
+86869	Archives départementales de la Marne (=) ADMARNE	ARK
+87211	Laboratoire de Recherche des Monuments Historiques (=) LRMH	ARK
+87268	Bourns College of Engineering (=) BCOE	EZID
+87270	Skaggs School of Pharmacy (=) UCSDSSPPS	EZID
+87272	UCSF Clinical and Translational Science Institute (=) UCSFCTSI	EZID
+87273	Washington State University (=) WSU	EZID
+87276	Musée Saint-Raymond, musée d'Archéologie de Toulouse (=) MSR	ARK
+87278	University of Utah (=) UUTAH	EZID
+87279	Ocean Observatory Initiative (=) OOI	EZID
+87280	University of California Irvine (=) UCIRVINE	EZID
+87281	Johns Hopkins University (=) JHU	EZID
+87285	Center for Multiscale Modeling of Atmospheric Processes (=) CMMAP	EZID
+87286	Biocode Commons UC Berkeley (=) BIOCODEUCB	ARK
+87287	UCD Online Strategies (=) UCDONS	EZID
+87290	University of Tennessee (=) UTK	EZID
+87292	Iowa State University (=) IASTATELIB	EZID
+87293	UC Davis Archives and Institutional Assets (=) UCD-AIA	EZID
+87295	Center for Research in Biological Systems (=) CRBS	EZID
+87296	Dartmouth Spatial Archaeometry Lab (=) DARTSPARCL	EZID
+87297	UC Berkeley Department of Linguistics (=) UCBLING	EZID
+87299	Museum of Vertebrate Zoology (=) UCBMVZ	EZID
+87300	UCSD School of Medicine, Department of Neurosciences, Mobley Lab (=) ONELAB	EZID
+87302	University of Michigan Libaries (=) UMICH	EZID
+87553	Archives de la ville de Pontivy (=) ADPONTIVY	ARK
+87602	Morphosource Project (=) MORPHOSO	EZID
+87603	Texas Advanced Computing Center (=) TACC	EZID
+87607	Chicago Collections Consortium (=) CCC	EZID
+87610	UTA Institute of Classical Archaeology (=) ICA	EZID
+87895	Centre Informatique National de l'Enseignement Supérieur (=) French National Data Center for Higher Education and Scientific Research (=) CINES	ARK
+87908	UC San Diego Department of Biomedical Informatics (=) DBMICLD	EZID
+87909	UCLA Library Data Science Center (=) UCLADATASCI	EZID
+87911	PlayBac Presse (=) PBP	ARK
+87913	Librairie LDE (=) LDE	ARK
+87915	Center for Nanotechnology in Society (=) CNS	EZID
+87918	Drexel University Libraries (=) DRXLDATA	EZID
+87919	Advanced Graphics Lab (=) AGL	EZID
+87920	Cyberinfrastructure for Atomistic Materials Science (=) CAMS	EZID
+87922	Institute of Transportation Studies, UC Berkeley (=) UCBITS	EZID
+87924	Duke University (=) DUL	EZID
+87925	University College Dublin (=) UCDIRL	EZID
+87928	Berkeley Research IT (=) UCBRIT	EZID
+87932	Berkeley Seismological Laboratory (=) BSL	EZID
+87936	Washington University in St. Louis (=) WUSTL	EZID
+87940	UCSB Writing Program (=) WRITPRO	EZID
+87941	Lawrence Berkeley National Laboratory (=) LBNL	EZID
+87942	CLIVAR and Carbon Hydrographic Data Office (=) CCHDO	EZID
+87943	LBNL OpenMSI (=) LBNLOMSI	EZID
+87946	iPlant Collaborative (=) IPLANT	EZID
+88112	National Registry of Exonerations (=) NRE	EZID
+88113	Penn State Institutes of Energy & Environment/PSU Data Commons (=) PSUCOMMONS	EZID
+88114	Purdue Polytechnic Institute (=) PURPOLY	EZID
+88115	Laboratory for Basic and Translational Cognitive Neuroscience (=) LUCKLAB	EZID
+88118	Geotechnical Extreme Events Reconnaissance (=) GEER	EZID
+88119	Facebase Consortium (=) FACEBASE	EZID
+88120	USC ISI Informatics Systems Research Division (=) ISRD	EZID
+88122	Industry Documents Library (=) IDL	EZID
+88238	Library of the University of Amsterdam (=) UVADAM	ARK
+88431	Energy Analysis and Environmental Impacts (=) EAEI	EZID
+88434	Madmagz (=) MADMAGZ	ARK
+88435	Princeton University (=) PRINCETON	ARK
+88436	Southern California Ocean Observing System (=) SCCOOS	EZID
+88437	Coastal Data Information Program (=) CDIP	EZID
+88439	Journal of Geophysics (=) GEO	ARK
+88734	Joint Center for Artificial Photosynthesis in Chemical Sciences Division (=) LBNLJCAP	EZID
+88735	EXARC (=) EXARC	ARK
+88736	Dartmouth Thayer Instructional Labs (=) THAYERINSL	EZID
+88737	Duke Visible Thinking (=) VISIBLETHK	EZID
+89606	Éditions JOCATOP (=) JOCATOP	ARK
+89901	Archives of Region of Västra Götaland and City of Gothenburg, Sweden (=) ARKIVNAMNDEN	ARK
+89947	Archives Municipales de la ville de Château d'Olonne (=) OLONNE	ARK
+90135	ONEShare Data Service (=) ONESHARE	ARK
+99152	Metadata Terms (=) TERMS	ARK
+99160	Office International de l'Eau (=) International Office for Water (=) OIEAU	ARK
+99166	People, Groups, and Institutions as Agents (=) AGENTS	ARK
+99999	NAAN Reserved for Invalid or Impossible ARKs (=) INVALID	ARK
