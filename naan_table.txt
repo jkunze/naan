@@ -1,4 +1,4 @@
-10113	US National Agricultural Library (=) USNAL	ARK
+10113	US National Agricultural Library (=) USNAL	ARK 
 10261	Jüdisches Museum Berlin (=) Jewish Museum Berlin (=) JMBERLIN	ARK
 10262	Médiathèque François-Mitterrand Poitiers (=) Poitiers Media Library (=) MFMP	ARK
 10603	Instituto de Etnomusicologia - Centro de Estudos em Música e Dança, Faculdade de Motricidade Humana (=) Institue of Ethnomusicology - Music and Dance Study Center, Faculty of Human Motricity (=) INETMDFMH	ARK
